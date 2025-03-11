@@ -11,5 +11,5 @@
 📉 High-frequency trading | 🤖 Algo Trading | 🧠 Machine Learning in Finance | 💰 DeFi & Crypto
 
 📜 Projects & Research:<br/>
-🔬 Experimenting with 256 qubits for market data processing 🧑‍🔬
+🔬 Experimenting with 256 qubits for market data processing 🧑‍🔬<br/>
 📝 Documenting quant strategies & financial models for a research paper 📚
