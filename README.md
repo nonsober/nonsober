@@ -1,16 +1,15 @@
-## Hi there 👋
+## Hi, I'm Abhijeet!
 
-<!--
-**nonsober/nonsober** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💡 Currently Building:<br/>
+🔹 Nebula – An industry-grade stock analyzer to challenge major HFT firms 📈<br/>
+🔹 Pliromí – A crypto-backed lending platform 🔗
 
-Here are some ideas to get you started:
+💻 Tech Stack:<br/>
+🦀 Rust | 🔴 OCaml | ⚡ Q/kdb+ | 🐍 Python
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🔍 Interests:<br/>
+📉 High-frequency trading | 🤖 Algo Trading | 🧠 Machine Learning in Finance | 💰 DeFi & Crypto
+
+📜 Projects & Research:<br/>
+🔬 Experimenting with 256 qubits for market data processing 🧑‍🔬
+📝 Documenting quant strategies & financial models for a research paper 📚
