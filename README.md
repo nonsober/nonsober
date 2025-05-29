@@ -5,7 +5,7 @@
 🔹 Pliromí – A crypto-backed lending platform 🔗
 
 💻 Tech Stack:<br/>
-🦀 Rust | 🔴 OCaml | ⚡ Q/kdb+ | 🐍 Python
+🦀 Rust | 🐍 Python
 
 🔍 Interests:<br/>
 📉 High-frequency trading | 🤖 Algo Trading | 🧠 Machine Learning in Finance | 💰 DeFi & Crypto
