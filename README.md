@@ -1,18 +1,26 @@
-## Hi, I'm Abhijeet 👋
+# Abhijeet Kumar
 
-### 🔨 What I'm building
+Electronics and Communication Engineering undergraduate building tools for quantitative research, with a focus on backtest validity, market microstructure, and machine learning in finance.
 
-**[ARBITER]**: a statistical auditor for trading backtests<br/>
-Grades a backtest the way a skeptical PM would. It runs Deflated Sharpe, PSR and MinTRL, probability of backtest overfitting via CSCV, regime stability, cost sensitivity, and lookahead and implausibility checks, then combines them into a graded report card. It ships as a Python CLI with a `--fail-under` gate, so a weak strategy can fail a CI build. In validation, both the best of 1,000 pure-noise strategies and a strategy with a lookahead bug score an **F**.
+## Projects
 
-**BCX, the Bengaluru Chaos Exchange** 🚦: a "stock exchange" where Bengaluru's traffic is the market. It's a side project I'm building for fun.
+**ARBITER** · Statistical auditor for trading backtests
 
-### 🧪 Research
-- Independent research on how language models reason about finance (details after review)
+Evaluates a backtest the way a skeptical portfolio manager would. ARBITER runs the Deflated Sharpe Ratio, Probabilistic Sharpe Ratio and Minimum Track Record Length, estimates the probability of backtest overfitting via CSCV, tests regime stability and transaction-cost sensitivity, and checks for lookahead bias and implausible results. The findings are combined into a graded report card. It ships as a Python CLI with a `--fail-under` threshold, so a weak strategy can fail a CI build. In validation, both the best of 1,000 pure-noise strategies and a strategy with a deliberate lookahead bug receive an F.
+
+**BCX (Bengaluru Chaos Exchange)** · Side project
+
+A mock stock exchange where Bengaluru's traffic conditions are the traded market.
+
+## Research
+
+- Independent research on how large language models reason about financial information (details to follow)
 - Reviewer, ACM ICAIF 2026
 
-### 💻 Stack
-🐍 Python · 🦀 Rust · Solidity · currently learning C++ for low-latency systems
+## Technical Skills
 
-### 🔍 Interests
-Market microstructure & HFT · Backtest validity & research rigor · ML / LLMs in finance · DeFi
+Python · Rust · Solidity · C++ (in progress, for low-latency systems)
+
+## Interests
+
+Market microstructure and high-frequency trading · Backtest validity and research rigor · Machine learning and LLMs in finance · Decentralized finance
